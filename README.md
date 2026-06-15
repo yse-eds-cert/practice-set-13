@@ -30,5 +30,6 @@ In these instructions, we instruct you to replace `<yourUserNameHere>` with your
 
 - `README.md` — this file, with instructions
 - `C4M13_practice-set.ipynb` — the practice set notebook
+- Data sets
 
 Please don't hesitate to reach out to the Lead Mentor (Andie Creel) or your assigned Online Mentor if you get stuck.
