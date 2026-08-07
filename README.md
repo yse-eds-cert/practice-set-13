@@ -1,6 +1,6 @@
-# Course 4 / Module 13 — Practice Set 13
+# Course 5 / Module 13 — Practice Set 13
 
-Welcome to Practice Set 13 for the YSE Environmental Data Science Certificate Program! This assignment will give you practice with the concepts from Course 4, Module 13.
+Welcome to Practice Set 13 for the YSE Environmental Data Science Certificate Program! This assignment will give you practice with the concepts from Course 5, Module 13.
 
 ## Orienting to where you are
 
